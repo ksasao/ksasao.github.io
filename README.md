@@ -5,7 +5,11 @@
 | 番号 | 転送先 |
 |---|---|
 | [1](https://ksasao.github.io/p/1) | [BMP581搭載 ESP32-C3 気圧ゆらぎセンサ開発ボード](https://ksasao.github.io/pressure-monitor/esp32c3-bmp581/) |
-| [2](https://ksasao.github.io/p/2) | [M5Stack Grove - Qwiic 変換アダプタ](https://ksasao.github.io/grove-qwiic-adapter/) |
+| [2](https://ksasao.github.io/p/2) | [M5Stack用 Grove - Qwiic 変換アダプタ](https://ksasao.github.io/grove-qwiic-adapter/) |
+
+| 短縮 URL | 転送先 |
+|---|---|
+| [contact](https://ksasao.github.io/contact) | [お問い合わせフォーム](https://forms.gle/qyRgTUC6YQnALjNT8) |
 
 製品を追加するときは `p/1.html` をコピーして、番号のファイル名にし、中の URL（3か所）とタイトルを書き換えます。`index.html` と、この表にも追加してください。
 
