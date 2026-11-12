@@ -9,7 +9,7 @@
 
 | 短縮 URL | 転送先 |
 |---|---|
-| [contact](https://ksasao.github.io/contact) | [お問い合わせフォーム](https://forms.gle/qyRgTUC6YQnALjNT8) |
+| [p/contact](https://ksasao.github.io/p/contact) | [お問い合わせフォーム](https://forms.gle/qyRgTUC6YQnALjNT8) |
 
 製品を追加するときは `p/1.html` をコピーして、番号のファイル名にし、中の URL（3か所）とタイトルを書き換えます。`index.html` と、この表にも追加してください。
 
